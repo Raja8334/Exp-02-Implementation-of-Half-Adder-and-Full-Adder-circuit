@@ -41,25 +41,29 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: Raja.R
 RegisterNumber:  212222100041
 # HALF ADDER
+```
 module Epo1(A,B,sum,carry);
 input A,B;
 output sum,carry;
 assign sum=A^B;
 assign carry=A&B;
 endmodule
+```
 # FULL ADDER
+```
 module Epoo1(A,B,Cin,sum,carry);
 input A,B,Cin;
 output sum,carry;
 assign sum=A^B^Cin;
 assign carry =(A&B)|((A^B)&Cin);
 endmodule
+```
 */
 Logic symbol & Truthtable
 RTL realization
-#HALF ADDER
+# HALF ADDER
 ![Screenshot 2023-09-02 092721](https://github.com/Raja8334/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120719634/9d926edb-22aa-4407-a5fd-d9443d4bf407)
-#FULL ADDER
+# FULL ADDER
 ![Screenshot 2023-09-02 094051](https://github.com/Raja8334/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120719634/d2e59604-65f6-4c75-9aa2-88fdd619d3fe)
 
 
