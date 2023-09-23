@@ -85,8 +85,8 @@ RTL realization
 
 # FULL ADDER
 
+![image](https://github.com/Raja8334/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120719634/8ef38e44-6181-4dc0-a3d5-79e837998a03)
 
-![images](https://github.com/Raja8334/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120719634/a60ec817-a841-4abd-b8e8-1012edf874d3)
 
 
 
